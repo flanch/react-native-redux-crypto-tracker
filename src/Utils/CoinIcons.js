@@ -1,5 +1,5 @@
 export const images = {
-    BTC: 'https://res.cloudinary.com/da7jhtpgh/image/upload/v1508609483/bitcoin_eqld4v.png',
+    BTC: 'https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=001',
     ETH: 'https://cryptologos.cc/logos/ethereum-eth-logo.png?v=001',
     XRP: 'https://cryptologos.cc/logos/xrp-xrp-logo.png?v=001',
     BCH: 'https://cryptologos.cc/logos/bitcoin-cash-bch-logo.png?v=001',
